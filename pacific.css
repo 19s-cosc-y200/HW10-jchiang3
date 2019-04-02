@@ -1,0 +1,51 @@
+/*
+Project Name: Pacific Trails Resort (HW10)
+Author: Jennifer Chiang
+Date Last Modified: 4/2/2019
+*/
+
+/*global styles*/
+body { background-color: #FFFFFF;
+	   color: #666666;
+	   font-family: Verdana, Arial, Gotham;
+}
+
+/*header element*/
+header { background-color: #000033;
+		 color: #FFFFFF;
+		 font-family: Georgia, Gotham;
+}
+
+/*for h1 and h2*/
+h1 { line-height: 200% }
+
+h2 { color: #3399CC;
+	 font-family: Georgia, Gotham;
+}
+
+/*nav element*/
+nav { font-weight: bold;
+	  background-color: #90C7E3;
+}
+
+/*description text element*/
+dt { color: #000033;
+	font-weight: bold;
+}
+
+/*footer element*/
+footer { font-size: .70em;
+		text-align: center;
+		font-style: italic;
+}
+
+/*class named resort*/
+.resort { color: #000033;
+		  font-size: 1.2em;
+}
+
+/*id named wrapper*/
+#wrapper { width: 80%;
+		   margin-right: auto;
+		   margin-left: auto;
+}
